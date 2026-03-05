@@ -1,0 +1,31 @@
+# =================================================================
+# ENVIRONMENT AND SECRETS (CRITICAL!)
+# =================================================================
+# Do not upload sensitive credentials to public repositories
+.env
+
+# =================================================================
+# PYTHON BUILD AND CACHE
+# =================================================================
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =================================================================
+# LOGS AND TEMPORARY FILES
+# =================================================================
+# Ignore application logs to avoid leaking runtime data
+logs/
+*.log
+
+# =================================================================
+# IDE AND SYSTEM FILES
+# =================================================================
+# Visual Studio Code settings
+.vscode/
+# JetBrains / PyCharm settings
+.idea/
+# macOS system files
+.DS_Store
