@@ -17,4 +17,4 @@ A robust Python-based data engineering tool designed to monitor global eBay auct
 ## 📦 Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/ebay-market-intelligence.git](https://github.com/yourusername/ebay-market-intelligence.git)
+   git clone [https://github.com/RainTong-By/ebay-market-intelligence-data-pipeline.git](https://github.com/RainTong-By/ebay-market-intelligence-data-pipeline.git)
